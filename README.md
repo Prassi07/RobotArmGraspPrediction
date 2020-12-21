@@ -5,7 +5,7 @@
 ### Contributors :
  1. Manoj Surya K - (https://sites.google.com/view/manojsuryakashi)
  2. Prasanna Venkatesan K S - (https://prassi07.github.io)
- 3. Pritesh J Shah - 
+ 3. Pritesh J Shah - (https://www.linkedin.com/in/pritesh-shah-6b733b152)
  
  This project aims at evaluating performance for different supervised models in predicting grasp locations for objects using its image. Experiments were conducted for different models like Logistic Regression, Logistic Regression with regularization, Feed Forward Neural Networks and Support Vector Machine. 
 
